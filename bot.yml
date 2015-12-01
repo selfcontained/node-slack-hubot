@@ -1,0 +1,8 @@
+name: Marvin
+description: Hubot for Beep Boop
+avatar: avatar.png
+config:
+  - name: OPTION
+    friendly_name: Some Unnecessary Option
+    info: This is an unnecessary option
+    default: the default value
