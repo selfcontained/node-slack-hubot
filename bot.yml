@@ -1,5 +1,5 @@
 name: Marvin
-description: Hubot for Beep Boop
+description: Hubot on Beep Boop
 avatar: avatar.png
 config:
   - name: OPTION
