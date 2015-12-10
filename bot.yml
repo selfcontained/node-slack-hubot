@@ -2,7 +2,18 @@ name: Marvin
 description: Hubot on Beep Boop
 avatar: avatar.png
 config:
-  - name: OPTION
-    friendly_name: Some Unnecessary Option
-    info: This is an unnecessary option
-    default: the default value
+  - name: FAVORITE_WORD
+    type: text
+    friendly_name: Bot's Favorite Word
+    info: "Your bot just loves this word, and will say it all the time"
+    default: "waffles"
+  - name: PUBLIC_TOKEN
+    type: text
+    friendly_name: Public Token
+    info: "The Public Token"
+    default:
+  - name: SECRET_TOKEN
+    type: secret
+    friendly_name: Token
+    info: "The Secret Token, shhhhhhh"
+    default:
