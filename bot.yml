@@ -1,7 +1,7 @@
-name: Marvin
+name: Not Marvin
 description: Hubot on Beep Boop
 avatar: avatar.png
-background: images/bots-bg.jpg
+background: images/terminator.jpg
 config:
   - name: FAVORITE_WORD
     type: text
@@ -22,4 +22,4 @@ screenshots:
   - screenshot: images/gir-1.jpg
   - screenshot: images/gir-2.jpg
   - screenshot: images/ironman.jpg
-  - screenshot: images/terminator.jpg
+  - screenshot: images/bots-bg.jpg
