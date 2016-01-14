@@ -21,5 +21,3 @@ config:
 screenshots:
   - screenshot: images/gir-1.jpg
   - screenshot: images/gir-2.jpg
-  - screenshot: images/ironman.jpg
-  - screenshot: images/terminator.jpg
