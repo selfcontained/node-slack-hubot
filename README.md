@@ -6,3 +6,4 @@ running as quick as possible.
 
 [hubot]: http://hubot.github.com
 [generator-hubot]: https://github.com/github/generator-hubot
+
